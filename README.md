@@ -5,7 +5,7 @@ Seja bem vindo ao meu repositório do GitHub. Aqui você encontrará alguns dos 
 - Atualmente estou cursando Engenharia de Telecomunicaçoes.
 
 Contato
-Email pessoal: lucasstld21@gmail.com
-LinkedIn: https://www.linkedin.com/in/lucas-schuller-de-toledo-3b961023a/
-Instagram: @schullerlucas21
-Sinta-se à vontade para explorar e entrar em contato se tiver alguma pergunta ou sugestão! :)
+- Email pessoal: lucasstld21@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucas-schuller-de-toledo-3b961023a/
+- Instagram: @schullerlucas21
+- Sinta-se à vontade para explorar e entrar em contato se tiver alguma pergunta ou sugestão! :)
